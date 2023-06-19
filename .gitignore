@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#my files
+\tmp
+*.txt
+
 # Compiled Object files
 *.slo
 *.lo
